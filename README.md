@@ -1,6 +1,6 @@
-# La Patadita de la Suerte — Misión Aguinaldos (DEMO)
+# La Patadita de la Suerte — Misión Aguinaldos
 
-Demo web 2D pixel art. Un solo archivo: `index.html` (HTML + CSS + JS, Canvas 2D, Web Audio). No usa backend ni dependencias.
+Juego web 2D pixel art. Un solo archivo: `index.html` (HTML + CSS + JS, Canvas 2D, Web Audio). No usa backend ni dependencias.
 
 ## Ejecutar
 - **Local:** abrir `index.html` con doble clic en Chrome, Edge, Safari o Firefox.
